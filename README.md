@@ -26,9 +26,8 @@ code .
 
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
-**[MIT License](https://choosealicense.com/licenses/mit/)**
+**[MIT](https://choosealicense.com/licenses/mit/)**
 
 
-
-
-
+## Proje Görseli
+![Proje Resmi](img/proje_resmi.png)
